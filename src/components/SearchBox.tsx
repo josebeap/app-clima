@@ -34,7 +34,7 @@ export const SearchBox = ({ handleSearch }: {
                 name="search"
                 type="search"
                 className="w-72 h-10 p-3 rounded-full mt-6 mb-5"
-                placeholder="Buscar clima de ciudad... 🌃🌇"
+                placeholder="Buscar clima ciudad... 🌃🌇"
                 onChange={handleChange}
                 value={search}
             />
